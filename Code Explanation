@@ -1,0 +1,20 @@
+Code Explanation:
+
+Book Class: Represents the structure of a book, including its properties.
+Patron Class: Represents the structure of a patron (library member).
+Library Class: Manages a collection of books and patrons, providing methods for adding books and patrons, borrowing and returning books, etc.
+
+Windows Forms Application: Provides a graphical user interface (GUI) for interacting with the library system, including buttons and event handlers for different operations.
+Project Structure:
+
+LibraryManagementSystem (VB Project): The main project containing forms and logic.
+Book.vb: Class file for the Book class.
+Patron.vb: Class file for the Patron class.
+Library.vb: Class file for the Library class.
+
+Learning Objectives:
+Understanding Visual Basic (VB) programming.
+Implementing object-oriented principles in VB.
+Developing a Windows Forms Application.
+Handling user input, managing data, and implementing library operations.
+This simple Library Management System project allows you to learn and practice VB programming while creating a useful application for managing library resources.
