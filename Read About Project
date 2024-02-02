@@ -1,0 +1,12 @@
+a simple example of a Library Management System using Visual Basic (VB). This project allows users to manage books, patrons, and borrowing transactions.
+
+Objective:
+Develop a Library Management System using Visual Basic to manage and organize books, patrons, and borrowing transactions in a library setting.
+
+Outcome:
+A user-friendly application that enables library staff to perform tasks such as adding new books, adding new patrons, tracking borrowed books, and returning books.
+
+Technologies Used:
+Language: Visual Basic (VB)
+User Interface: Windows Forms Application
+Database: In this example, a simple in-memory data structure (List) is used for storing data. For a real-world scenario, you might use a database like Microsoft Access or SQL Server.
